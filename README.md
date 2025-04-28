@@ -16,6 +16,8 @@ This project aims to classify hand gestures using Electromyography (EMG) signals
 
 ### 1. Data Collection (`dataCollector.py`)
 
+![Data Collector](https://github.com/Doga0/EMG_hand_gesture_classification/blob/main/dataCollector.png)
+
 This script handles the collection of EMG data from sensors. A helper tool to automatically collect and label signal data in real time.
 **Features:**
 
